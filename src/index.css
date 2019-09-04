@@ -4,7 +4,7 @@ body {
   font-family: "Courier New", Courier, monospace;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: linear-gradient(to right, rgb(255, 31, 0), rgb(72, 40, 210));
+  background: linear-gradient(to right,  rgb(252, 93, 232), rgb(25, 231, 234));
 }
 
 button {
